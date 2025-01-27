@@ -1,7 +1,7 @@
 {
   "workshops": [
     {
-      "endDate": "2025-02-07T18:00+01:00",
+      "startDate": "2025-02-06T14:00+01:00",
       "date": "Feb 6th – 7th, 2025, 14:00-18:00 CET",
       "text": "Remote Workshop: Svelte 5 & Runes",
       "link": "https://ti.to/mainmatter/svelte-5-runes-feb-2025"
